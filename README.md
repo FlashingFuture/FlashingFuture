@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- majored electronic engineering
+- currently in SSAFY 11th education procedure
+---
+- teamfight tactics season 9.5 challenger
 <!--
 **FlashingFuture/FlashingFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
