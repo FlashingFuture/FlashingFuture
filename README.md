@@ -1,9 +1,19 @@
-### Hi there 👋
-
-- majored electronic engineering
-- currently in SSAFY 11th education procedure
+### FlashingFuture
+#### Chung Kiyoung
 ---
+- 🇰🇷  born in Seoul, South Korea 
+- ⚡ majored electronic engineering
+- ✏️ studied signal processing and Verilog
+- 🏢 currently in SSAFY 11th education procedure ( python )
+- 🌱 Novice programmer ( in 2024 )
+- ✨ have big interest in generative AI, especially for images
+---
+
+- [TIL](https://github.com/FlashingFuture/TIL)
+---
+### ETC
 - teamfight tactics season 9.5 challenger
+- 
 <!--
 **FlashingFuture/FlashingFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
