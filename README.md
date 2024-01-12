@@ -3,9 +3,9 @@
 ---
 - 🇰🇷  born in Seoul, South Korea 
 - ⚡ majored electronic engineering
-- ✏️ studied signal processing and Verilog
+- ✏️ studied signal processing and logic circuit ( verilog )
 - 🏢 currently in SSAFY 11th education procedure ( python )
-- 🌱 Novice programmer ( in 2024 )
+- 🌱 Novice programmer : started exact programming in 2024
 - ✨ have big interest in generative AI, especially for images
 ---
 
@@ -13,7 +13,7 @@
 ---
 ### ETC
 - teamfight tactics season 9.5 challenger
-- 
+- ⚠️unstoppable⚠️
 <!--
 **FlashingFuture/FlashingFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
