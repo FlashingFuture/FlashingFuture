@@ -14,7 +14,6 @@
 ### ETC
 ![이미지 로딩 실패](challenger.png)
 - teamfight tactics season 9.5 challenger
-- ⚠️unstoppable⚠️
 <!--
 **FlashingFuture/FlashingFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
