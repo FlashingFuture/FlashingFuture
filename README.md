@@ -11,13 +11,9 @@
 
 ## 🏆 Awards / Certificates
 
----
-
 - 2024.08     EduFocus : 비대면 강의 통합 플랫폼 PJT - 우수상 (SSAFY)
 
 ## 🎓 Education / Experience
-
----
 
 - 2024.01 ~ 현     재    삼성 청년 SW 아카데미 11기 재학 중
                                   - Python, Django, Vue.JS 학습
@@ -30,7 +26,6 @@
 
 ## 👨🏻‍💻 Projects
 
----
 - 2024.08 ~ 2024.10(7주)    Anyway, I didn’t do it : 화살 피하기 기반 멀티플레이 액션 게임
     - [프로젝트 Github 링크](https://github.com/FlashingFuture/Anyway-I-didn-t-do-it)
 - 2024.07 ~ 2024.08(7주)    EduFocus : 비대면 강의 통합 플랫폼
