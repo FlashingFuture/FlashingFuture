@@ -1,29 +1,40 @@
 # FlashingFuture
-#### Chung Kiyoung
-## Contact
-
-- TEL.          010-3243-5736
+## Chung Kiyoung
 - E-MAIL.    wjdrldud98@gmail.com
 
-전자전기공학부를 졸업하고 삼성 청년 SW 아카데미에서 소프트웨어 역량을 키우고 있습니다.
+Majored in Electronic Engineering, improved software skills in Samsung Software Academy for Youth
 
-항상 논리적으로 소통하고 논리적인 코드를 작성하기 위해 노력중입니다.
+## 🛠️ Tech Stack
 
-## 🏆 Awards / Certificates
+### 🌐 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-- 2024.08     EduFocus : 비대면 강의 통합 플랫폼 PJT - 우수상 (SSAFY)
+### 🏗️ Libraries / Frameworks
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 
-## 🎓 Education / Experience
+### ⚙️ Tools / Platforms
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
-- 2024.01 ~ 현     재    삼성 청년 SW 아카데미 11기 재학 중
-  - Python, Django, Vue.JS 학습
-- 2018.03 ~ 2024.02    동국대학교 전자전기공학부 졸업
-  - 반도체 공정 / 회로설계 / 신호처리(영상처리) 학습
+
+## 🎓 Experience
+
+**2024.01 ~ Present**
+Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed
+
+- Learned Python, Django, and Vue.js
+
+**2018.03 ~ 2024.02**
+Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk University
+
+- Studied semiconductor processes, circuit design, and signal processing (including image processing)
     
 
-## 👨🏻‍💻 Projects
-
-- 2024.08 ~ 2024.10(7주)    Anyway, I didn’t do it : 화살 피하기 기반 멀티플레이 액션 게임
-    - [프로젝트 Github 링크](https://github.com/FlashingFuture/Anyway-I-didn-t-do-it)
-- 2024.07 ~ 2024.08(7주)    EduFocus : 비대면 강의 통합 플랫폼
-    - [프로젝트 Github 링크](https://github.com/FlashingFuture/edufocus)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrldud98)](https://solved.ac/wjdrldud98/)
