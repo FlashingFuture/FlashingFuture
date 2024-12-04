@@ -1,8 +1,23 @@
-# FlashingFuture
-## Chung Kiyoung
-- E-MAIL.    wjdrldud98@gmail.com
+## 🧑‍💻 Profile
 
-Majored in Electronic Engineering, improved software skills in Samsung Software Academy for Youth
+<table>
+  <tr>
+    <td>
+      <b>📄 Profile</b><br>
+      - E-MAIL: wjdrldud98@gmail.com<br><br>
+      - Majored in Electronic Engineering<br>
+      - Improved software skills in Samsung Software Academy for Youth
+    </td>
+    <td align="center">
+      <b>🏅 Baekjoon Algorithm</b><br>
+      <a href="https://solved.ac/wjdrldud98/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrldud98" alt="Solved.ac Profile">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -29,19 +44,15 @@ Majored in Electronic Engineering, improved software skills in Samsung Software 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
-
+---
 
 ## 🎓 Experience
 
-**2024.01 ~ Present**
-Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed
+**2024.01 ~ Present**  
+Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed  
+- Learned Python, Django, and Vue.js  
 
-- Learned Python, Django, and Vue.js
-
-**2018.03 ~ 2024.02**
-Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk University
-
+**2018.03 ~ 2024.02**  
+Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk University  
 - Studied semiconductor processes, circuit design, and signal processing (including image processing)
-    
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrldud98)](https://solved.ac/wjdrldud98/)
