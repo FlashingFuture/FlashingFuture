@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <b>📄 Profile</b><br>
       - E-MAIL: wjdrldud98@gmail.com<br><br>
       - Majored in Electronic Engineering<br>
-      - Improved software skills in Samsung Software Academy for Youth
+      - Improved software skills in Samsung Software Academy for Youth<br>
+      - Passionate about challenging myself with emerging technologies
     </td>
     <td align="center">
       <b>🏅 Baekjoon Algorithm</b><br>
@@ -39,7 +39,7 @@
 ### ⚙️ Tools / Platforms
 <div style="display: flex; flex-direction: row; gap: 10px;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
