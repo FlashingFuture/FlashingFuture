@@ -1,12 +1,12 @@
 ## 🧑‍💻 Profile
 
-<table>
+<table align="center">
   <tr>
     <td>
-      - E-MAIL: wjdrldud98@gmail.com<br><br>
-      - Majored in Electronic Engineering<br>
-      - Improved software skills in Samsung Software Academy for Youth<br>
-      - Passionate about challenging myself with emerging technologies
+      - E-MAIL: wjdrldud98@gmail.com<br>
+      - Bachelor of electronics engineering<br>
+      - 📚 <a href="https://github.com/FlashingFuture/TIL">TIL</a><br>
+      - 💼 <a href="https://military-alibi-4d6.notion.site/10b441b627ab80a999b5d2f751c2944d">Portfolio</a><br>
     </td>
     <td align="center">
       <b>🏅 Baekjoon Algorithm</b><br>
@@ -56,3 +56,7 @@ Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed
 Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk University  
 - Studied semiconductor processes, circuit design, and signal processing (including image processing)
 
+## 🔗 Links
+
+- 📚 [TIL](https://github.com/FlashingFuture/TIL)
+- 💼 [Portfolio](https://military-alibi-4d6.notion.site/10b441b627ab80a999b5d2f751c2944d)
