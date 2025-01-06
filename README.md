@@ -1,21 +1,7 @@
 ## 🧑‍💻 Profile
 
-<table align="center">
-  <tr>
-    <td>
-      - E-MAIL: wjdrldud98@gmail.com<br>
-      - Bachelor of electronics engineering<br>
-      - 📚 <a href="https://github.com/FlashingFuture/TIL">TIL</a><br>
-      - 💼 <a href="https://military-alibi-4d6.notion.site/10b441b627ab80a999b5d2f751c2944d">Portfolio</a><br>
-    </td>
-    <td align="center">
-      <b>🏅 Baekjoon Algorithm</b><br>
-      <a href="https://solved.ac/wjdrldud98/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrldud98" alt="Solved.ac Profile">
-      </a>
-    </td>
-  </tr>
-</table>
+- E-MAIL: wjdrldud98@gmail.com<br>
+- Bachelor of electronics engineering<br>
 
 ---
 
