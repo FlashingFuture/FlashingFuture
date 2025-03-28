@@ -34,7 +34,7 @@
 
 ## 🎓 Experience
 
-**2024.01 ~ Present**  
+**2024.01 ~ 2024.12**  
 Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed  
 - Learned Python, Django, and Vue.js  
 
