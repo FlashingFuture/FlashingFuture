@@ -1,11 +1,20 @@
-## 🧑‍💻 Profile
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Kiyoung's+github+profile;Majored+in+Electronic+Engineering;Skilled+in+Web+Frontend+Development" alt="Typing SVG" />
+  </a>
+</p>
 
-- E-MAIL: wjdrldud98@gmail.com<br>
-- Bachelor of electronics engineering<br>
+## 🎓 Experience
 
----
+**2024.01 ~ 2024.12**  
+Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed  
+
+**2018.03 ~ 2024.02**  
+Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk University  
 
 ## 🛠️ Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlashingFuture&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Languages
 <div style="display: flex; flex-direction: row; gap: 10px;">
@@ -30,19 +39,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
----
 
-## 🎓 Experience
+## 🧑‍💻 Profile
 
-**2024.01 ~ 2024.12**  
-Samsung Software Academy for Youth (SSAFY) 11th Batch, Completed  
-- Learned Python, Django, and Vue.js  
-
-**2018.03 ~ 2024.02**  
-Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk University  
-- Studied semiconductor processes, circuit design, and signal processing (including image processing)
-
-## 🔗 Links
-
-- 📚 [TIL](https://github.com/FlashingFuture/TIL)
+- E-MAIL: wjdrldud98@gmail.com<br>
+- 📚 [TIL](https://github.com/FlashingFuture/TIL](https://gratis-noise-fee.notion.site/1f3ea395ff85809ea5a6e473cb6e139b?v=1f3ea395ff858039b16b000c1c753b3d))
 - 💼 [Portfolio](https://military-alibi-4d6.notion.site/10b441b627ab80a999b5d2f751c2944d)
+
