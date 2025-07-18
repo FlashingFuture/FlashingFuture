@@ -43,6 +43,6 @@ Bachelor’s Degree in Electrical and Electronics Engineering, Dongguk Universit
 ## 🧑‍💻 Profile
 
 - E-MAIL: wjdrldud98@gmail.com<br>
-- 📚 [TIL](https://github.com/FlashingFuture/TIL](https://gratis-noise-fee.notion.site/1f3ea395ff85809ea5a6e473cb6e139b?v=1f3ea395ff858039b16b000c1c753b3d))
+- 📚 [TIL](https://gratis-noise-fee.notion.site/1f3ea395ff85809ea5a6e473cb6e139b?v=1f3ea395ff858039b16b000c1c753b3d)
 - 💼 [Portfolio](https://military-alibi-4d6.notion.site/10b441b627ab80a999b5d2f751c2944d)
 
